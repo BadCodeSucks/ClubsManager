@@ -1,0 +1,25 @@
+.my_header .el-input__inner{
+    height: 36px;
+    line-height: 36px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.my_header .el-badge__content.is-fixed {
+  position: absolute;
+  top: 5px;
+  right: 12px;
+}
+.discussion .el-upload-list__item{
+  width: 48%;
+}
+.discussion .el-upload-list {
+  display: flex;
+  justify-content:space-between;
+  align-content:center;
+  flex-wrap: wrap;
+}
+.discussion .el-textarea__inner{
+  height: 100px;
+  margin-bottom: 10px;
+}

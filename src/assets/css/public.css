@@ -1,0 +1,14 @@
+.span_mar_top{
+  margin-top: 4px;
+}
+.flex_box{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.orange:hover {
+  color: #d9a641
+}
+.orange_color{
+  color: #d9a641
+}
